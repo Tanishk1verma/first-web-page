@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+}
+
+h1 {
+    color: darkblue;
+}
+img {
+    padding: 20px;
+    border-style: double;
+}
